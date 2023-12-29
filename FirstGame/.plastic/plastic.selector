@@ -1,0 +1,4 @@
+repository "FirstGame@erickkthemage@cloud"
+  path "/"
+    br "/main"
+    co "/main"
